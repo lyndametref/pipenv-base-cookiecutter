@@ -14,7 +14,7 @@ env.bak/
 venv.bak/
 
 # IDE configuration
-.idea
+.idea/
 .spyderproject
 .spyproject
 

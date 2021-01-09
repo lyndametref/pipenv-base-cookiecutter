@@ -18,14 +18,14 @@
 ```
 
 ## Installation 
-Insure python and pipenv are installed:
+Ensure python and pipenv are installed:
 
     $ python --version
     $ pipenv --version
 
 Clone project and run in project folder:
 
-    $ pyhton setup_env.py        # setup local pipenv environment variables
+    $ python setup_env.py        # setup local pipenv environment variables
     $ pipenv install             # --dev to include test packages
 
 Notes:

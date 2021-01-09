@@ -1,7 +1,7 @@
 # Pipenv base cookiecutter template
 
 [cookiecutter](https://cookiecutter.readthedocs.io) template for pipenv users. Provide some useful utility
- functions while somehoiw trying to stay technology agnostic (exceptions: pipenv for package manager, loegger for 
+ functions while somehow trying to stay technology agnostic (exceptions: pipenv for package manager, loegger for 
 logging and pytest for testing).
   
 Notes:
